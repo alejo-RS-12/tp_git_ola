@@ -2,7 +2,7 @@
 
 // Se define un arreglo de objetos con productos
 const productos = [
-    { nombre: "Queso en hebras Italiano La Paulina 135 Gr.", precio: 1200, stock: 10, imagen: "img/queso.png", clase: "queso" },
+    { nombre: "cuadro de la noche estrellada .", precio: 1200, stock: 10, imagen: "img/noche_estrellada.jpg", clase: "noche" },
     { nombre: "Cerveza Lata Miller 473 Ml.", precio: 900, stock: 5, imagen: "img/cerveza-rubia.png", clase: "cerveza-rubia" },
     { nombre: "Shampoo Pantene Restauración Pro-V Solutions 400 Ml.", precio: 2840, stock: 8, imagen: "img/shampoo.png", clase: "shampoo" },
     { nombre: "Ensalada Clásica Buy & Eat 200 Gr.", precio: 1890, stock: 3, imagen: "img/verduras.png", clase: "verduras" },
