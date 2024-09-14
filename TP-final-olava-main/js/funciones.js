@@ -10,6 +10,7 @@ const productos = [
     { nombre: "Chorizo Fresco Dia Cerdo 400 Gr.", precio: 2190, stock: 1, imagen: "img/chorizo.png", clase: "chorizo" },
     { nombre: "Matambre Envasado al Vacío x 1 Kg", precio: 6490, stock: 23, imagen: "img/carne.png", clase: "carne" },
     { nombre: "Alfajor Triple Milka Oreo 61 Gr.", precio: 1290, stock: 5, imagen: "img/alfajor.png", clase: "alfajor" },
+    { nombre: "Azúcar Ledesma  x 1kg.", precio: 1500, stock: 12, imagen: "img/azucar.jpg", clase: "azúcar" }
 ];
 
 // Función para cargar los productos en la página
